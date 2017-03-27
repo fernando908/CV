@@ -1,8 +1,4 @@
 $(document).ready(function(){
-$(".contenido").hide();
-$(".trabaje").hide();
-$(".estudiando").hide();
-$(".titulos").hide();
 $(".tecnologias").hide();
 //diplomas
 
